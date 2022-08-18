@@ -1,0 +1,14 @@
+com\sun\entity\HistoryDetail.class
+com\sun\entity\History$EStatus.class
+com\sun\service\UserService.class
+com\sun\entity\Comment.class
+com\sun\config\SpringConfig.class
+com\sun\entity\Book.class
+com\sun\entity\Type.class
+com\sun\entity\User.class
+com\sun\config\PersistenceJPAConfig.class
+com\sun\repository\UserRepository.class
+com\sun\entity\History.class
+com\sun\entity\TypeBook.class
+com\sun\config\AppInitializer.class
+com\sun\entity\User$ERole.class

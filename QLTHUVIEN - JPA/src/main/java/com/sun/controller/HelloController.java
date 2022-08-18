@@ -12,7 +12,7 @@ import java.util.List;
 @Controller
 public class HelloController {
     @Autowired
-    UserService userService;
+    private UserService userService;
     @RequestMapping("/hello")
     public String greeting(ModelMap model){
         model.addAttribute("gret","hello");
